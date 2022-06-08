@@ -1,2 +1,2 @@
 # heart_disease_prediction
-Using python and by importing some libraries we can prediction from a given set of data if the person has heart disease or not.
+Using python and by importing some libraries and from a given set of data we can predict whether a person has heart disease or not.
